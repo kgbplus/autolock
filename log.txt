@@ -1,0 +1,34 @@
+2018-12-29 19:18:33,236: __main__ [INFO] ble thread started
+2018-12-29 19:20:23,240: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 19:23:34,307: __main__ [INFO] ble thread started
+2018-12-29 19:23:36,439: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 19:42:14,403: __main__ [INFO] ble thread started
+2018-12-29 19:42:59,975: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 19:44:36,879: __main__ [INFO] ble thread started
+2018-12-29 19:45:35,917: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 19:45:47,456: __main__ [INFO] ble thread started
+2018-12-29 19:46:25,675: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 19:46:33,545: __main__ [INFO] ble thread started
+2018-12-29 19:47:06,740: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 19:47:41,846: __main__ [INFO] ble thread started
+2018-12-29 19:48:57,233: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 19:50:05,733: __main__ [INFO] ble thread started
+2018-12-29 19:50:59,155: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 19:52:08,623: __main__ [INFO] ble thread started
+2018-12-29 20:02:10,242: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 20:16:51,781: __main__ [INFO] ble thread started
+2018-12-29 20:25:50,406: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 20:26:01,225: __main__ [INFO] ble thread started
+2018-12-29 20:27:02,150: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 20:30:10,579: __main__ [INFO] ble thread started
+2018-12-29 20:30:28,703: __main__ [INFO] screen is locked
+2018-12-29 20:31:09,896: __main__ [INFO] ble thread started
+2018-12-29 20:31:18,256: __main__ [INFO] screen is locked
+2018-12-29 20:31:21,987: __main__ [INFO] screen is unlocked
+2018-12-29 20:34:23,871: __main__ [WARNING] Ctrl-C pressed
+2018-12-29 20:34:25,411: __main__ [INFO] ble thread started
+2018-12-29 20:34:32,755: __main__ [INFO] screen is locked
+2018-12-29 20:34:43,355: __main__ [INFO] screen is unlocked
+2018-12-29 20:34:58,528: __main__ [INFO] screen is locked
+2018-12-29 20:35:02,940: __main__ [INFO] screen is unlocked
+2018-12-29 20:35:21,614: __main__ [WARNING] Ctrl-C pressed
